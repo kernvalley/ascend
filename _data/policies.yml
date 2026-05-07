@@ -1,0 +1,11 @@
+trusted:
+  - default
+  - empty#html
+  - empty#script
+  - ga#script-url
+  - goog#html
+  - aegis-sanitizer#html
+  - weather-current#html
+  - krv-events#html
+  - github-user#html
+  - share-to-buttons#html

@@ -1,0 +1,8 @@
+- src: '@shgysk8zer0/polyfills'
+  crossOrigin: anonymous
+  referrerPolicy: no-referrer
+  defer: true
+- src: ./js/index.js
+  type: module
+  referrerPolicy: no-referrer
+  integrity: auto
